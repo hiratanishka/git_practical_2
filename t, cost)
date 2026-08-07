@@ -1,0 +1,15 @@
+[1mdiff --git a/prims.py b/prims.py[m
+[1mindex 157bf02..18d6129 100644[m
+[1m--- a/prims.py[m
+[1m+++ b/prims.py[m
+[36m@@ -39,4 +39,8 @@[m [mmst, cost = prim(graph, 'A')[m
+ [m
+ print("Minimum Spanning Tree:")[m
+ print(mst)[m
+[31m-print("Total cost:", cost)[m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m[32mprint()[m
+[32m+[m[32mprint()[m
+[32m+[m[32mprint("Total cost:", cost)[m
+[41m+[m
