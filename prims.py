@@ -39,8 +39,4 @@ mst, cost = prim(graph, 'A')
 
 print("Minimum Spanning Tree:")
 print(mst)
-
-print()
-print()
 print("Total cost:", cost)
-
